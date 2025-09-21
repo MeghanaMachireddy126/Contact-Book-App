@@ -25,5 +25,3 @@ Built with **PostgreSQL**, designed to seamlessly integrate with a React fronten
 | **Versioning**| Git + GitHub            |
 
 
-git clone https://github.com/yourusername/contact-book-backend.git
-cd contact-book-backend
